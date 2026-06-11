@@ -1,0 +1,6 @@
+# 忽略所有落盘的 CSV 数据矩阵
+*.csv
+
+# 如果你创建了本地数据文件夹，也可以把它整个忽略
+local_quant_data/
+market_data/
